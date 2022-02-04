@@ -1,0 +1,18 @@
+First Mate# Captain, they are back. 
+Captain Jhonson# Alright. Chief engineer, check the reactor status. Helmsman, set route to Earth. I have to talk to them, I wanna see the ship ready when I get back.
+Crews# Yes, sir.
+ # ...
+Captain Jhonson# Just the two of you?
+Captain Jhonson# Our communication was jammed, so tell me, what happended down there?
+Private Horton# Sir...It was my fault...I could have saved them...but...
+Shuttle Driver# Sir, we experienced much higher level of security than our intel indicated. The infiltration was failed, the others on the squad died securing data. 
+Captain Jhonson# I understand, someone's gonna pay for this. 
+Captain Jhonson# ...
+Captain Jhonson# You got the data?
+Private Horton# Yes sir.
+Captain Jhonson# At least it's not the worst, let go back to earth so we can settle things out. 
+ # ...
+Crew# Captian on the bridge!
+Captain Jhonson# Get ready to jump. 
+Chief Engineer# Yes, sir, on your command.
+ # 

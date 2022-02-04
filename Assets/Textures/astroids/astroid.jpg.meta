@@ -1,0 +1,3960 @@
+fileFormatVersion: 2
+guid: a0337e6930dc64a429f49cf34e831a0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1064938584130821537
+    second: astroid_0
+  - first:
+      213: -398538490203996858
+    second: astroid_1
+  - first:
+      213: -3336442271739794095
+    second: astroid_2
+  - first:
+      213: -5277240140394229836
+    second: astroid_3
+  - first:
+      213: -8220148620563346329
+    second: astroid_4
+  - first:
+      213: -3160537756143219840
+    second: astroid_5
+  - first:
+      213: -8885177002634324341
+    second: astroid_6
+  - first:
+      213: 7879942075647772688
+    second: astroid_7
+  - first:
+      213: -2236868830969996507
+    second: astroid_8
+  - first:
+      213: 3485801115524061003
+    second: astroid_9
+  - first:
+      213: 8178102075549589795
+    second: astroid_10
+  - first:
+      213: 5590516882730651351
+    second: astroid_11
+  - first:
+      213: -4797394334005789349
+    second: astroid_12
+  - first:
+      213: 2347112836984560819
+    second: astroid_13
+  - first:
+      213: -3669889563279493844
+    second: astroid_14
+  - first:
+      213: -2549046285220521906
+    second: astroid_15
+  - first:
+      213: 6121789710572633964
+    second: astroid_16
+  - first:
+      213: 564090328271363312
+    second: astroid_17
+  - first:
+      213: 7508207823063098333
+    second: astroid_18
+  - first:
+      213: 6799903972695842386
+    second: astroid_19
+  - first:
+      213: -6629979433992144818
+    second: astroid_20
+  - first:
+      213: -960447267498059611
+    second: astroid_21
+  - first:
+      213: 4682666314140526481
+    second: astroid_22
+  - first:
+      213: 5028795550813489160
+    second: astroid_23
+  - first:
+      213: -5575971113848862091
+    second: astroid_24
+  - first:
+      213: -2508136126894773013
+    second: astroid_25
+  - first:
+      213: 1236466780761662571
+    second: astroid_26
+  - first:
+      213: 1752038561822886106
+    second: astroid_27
+  - first:
+      213: -2586598634892045292
+    second: astroid_28
+  - first:
+      213: -6543743423016979442
+    second: astroid_29
+  - first:
+      213: -5682660326219301931
+    second: astroid_30
+  - first:
+      213: 4858176164118338165
+    second: astroid_31
+  - first:
+      213: 981335508707987996
+    second: astroid_32
+  - first:
+      213: -7604912432092685420
+    second: astroid_33
+  - first:
+      213: 4262567769861905138
+    second: astroid_34
+  - first:
+      213: -7961767265382055750
+    second: astroid_35
+  - first:
+      213: -5018103918245573401
+    second: astroid_36
+  - first:
+      213: -5532331425835785254
+    second: astroid_37
+  - first:
+      213: 6564079046101956367
+    second: astroid_38
+  - first:
+      213: -8591436613431342836
+    second: astroid_39
+  - first:
+      213: 558994994568997516
+    second: astroid_40
+  - first:
+      213: -3505031436459651329
+    second: astroid_41
+  - first:
+      213: 837649180808637092
+    second: astroid_42
+  - first:
+      213: 3068164333529990273
+    second: astroid_43
+  - first:
+      213: -6234443792073354682
+    second: astroid_44
+  - first:
+      213: 2079917823335910797
+    second: astroid_45
+  - first:
+      213: 5794984882250917259
+    second: astroid_46
+  - first:
+      213: -3628212446546323999
+    second: astroid_47
+  - first:
+      213: -247076999136222229
+    second: astroid_48
+  - first:
+      213: -7484445181672525221
+    second: astroid_49
+  - first:
+      213: -2728124745655994450
+    second: astroid_50
+  - first:
+      213: -7483816610917261622
+    second: astroid_51
+  - first:
+      213: -4016268403294945931
+    second: astroid_52
+  - first:
+      213: -2195325043784914972
+    second: astroid_53
+  - first:
+      213: 7185543131062367260
+    second: astroid_54
+  - first:
+      213: -1494723231454593777
+    second: astroid_55
+  - first:
+      213: 6275229207800674904
+    second: astroid_56
+  - first:
+      213: -2130808425272688511
+    second: astroid_57
+  - first:
+      213: -2426928942270103210
+    second: astroid_58
+  - first:
+      213: 5293784959345419570
+    second: astroid_59
+  - first:
+      213: 7809816442827725934
+    second: astroid_60
+  - first:
+      213: -5340178185158112148
+    second: astroid_61
+  - first:
+      213: -1044686317415288650
+    second: astroid_62
+  - first:
+      213: -5327885267599396189
+    second: astroid_63
+  - first:
+      213: -8656244453549390815
+    second: astroid_64
+  - first:
+      213: 5709962585578518631
+    second: astroid_65
+  - first:
+      213: 8746547137844508790
+    second: astroid_66
+  - first:
+      213: 7834397402907131386
+    second: astroid_67
+  - first:
+      213: 367526986441223871
+    second: astroid_68
+  - first:
+      213: -7901874855480993940
+    second: astroid_69
+  - first:
+      213: 2312357052228519172
+    second: astroid_70
+  - first:
+      213: 6058774807474309056
+    second: astroid_71
+  - first:
+      213: 7420424767255595719
+    second: astroid_72
+  - first:
+      213: -8417419253247420998
+    second: astroid_73
+  - first:
+      213: -5944601671278137264
+    second: astroid_74
+  - first:
+      213: 6519446634248458890
+    second: astroid_75
+  - first:
+      213: -1713755152048458877
+    second: astroid_76
+  - first:
+      213: 4855261031496751471
+    second: astroid_77
+  - first:
+      213: -1629577195326274752
+    second: astroid_78
+  - first:
+      213: 5717314268582557873
+    second: astroid_79
+  - first:
+      213: -5453728376983926134
+    second: astroid_80
+  - first:
+      213: 2334382728031175606
+    second: astroid_81
+  - first:
+      213: 5930280006362351838
+    second: astroid_82
+  - first:
+      213: 7824744305886520060
+    second: astroid_83
+  - first:
+      213: -6784898058714881694
+    second: astroid_84
+  - first:
+      213: -983815558265249585
+    second: astroid_85
+  - first:
+      213: -4620610236327667514
+    second: astroid_86
+  - first:
+      213: -2493335299050850791
+    second: astroid_87
+  - first:
+      213: -6378316778188078675
+    second: astroid_88
+  - first:
+      213: -6254919283175847313
+    second: astroid_89
+  - first:
+      213: 3126509369038076081
+    second: astroid_90
+  - first:
+      213: -1065100992405430486
+    second: astroid_91
+  - first:
+      213: 4169984554092360728
+    second: astroid_92
+  - first:
+      213: -3717505374275314937
+    second: astroid_93
+  - first:
+      213: -3734738449811018302
+    second: astroid_94
+  - first:
+      213: 5834442602441878810
+    second: astroid_95
+  - first:
+      213: 7997637322302229824
+    second: astroid_96
+  - first:
+      213: -3457889892146582537
+    second: astroid_97
+  - first:
+      213: -7421075651156192824
+    second: astroid_98
+  - first:
+      213: -6002524198913793470
+    second: astroid_99
+  - first:
+      213: 4450384088294533662
+    second: astroid_100
+  - first:
+      213: 4016910427447031156
+    second: astroid_101
+  - first:
+      213: 4205704733609736701
+    second: astroid_102
+  - first:
+      213: 2397297535302275249
+    second: astroid_103
+  - first:
+      213: 5067940109432764376
+    second: astroid_104
+  - first:
+      213: 1936432861484947438
+    second: astroid_105
+  - first:
+      213: -7412047712366834148
+    second: astroid_106
+  - first:
+      213: -2445639308899781521
+    second: astroid_107
+  - first:
+      213: 7752621170076833433
+    second: astroid_108
+  - first:
+      213: 7673548252254403161
+    second: astroid_109
+  - first:
+      213: 3639346998847027590
+    second: astroid_110
+  - first:
+      213: -7715851010880090244
+    second: astroid_111
+  - first:
+      213: -4413191543192139180
+    second: astroid_112
+  - first:
+      213: -5350407499480597969
+    second: astroid_113
+  - first:
+      213: 2510346251007835428
+    second: astroid_114
+  - first:
+      213: -8109091633065513350
+    second: astroid_115
+  - first:
+      213: 2864439701243910664
+    second: astroid_116
+  - first:
+      213: 6060173392790306196
+    second: astroid_117
+  - first:
+      213: 4209218845254087780
+    second: astroid_118
+  - first:
+      213: -1859248706044982962
+    second: astroid_119
+  - first:
+      213: -4501618714208584736
+    second: astroid_120
+  - first:
+      213: -727778817271531900
+    second: astroid_121
+  - first:
+      213: 8364744631949289349
+    second: astroid_122
+  - first:
+      213: -8382227952619462915
+    second: astroid_123
+  - first:
+      213: -6935205987386056653
+    second: astroid_124
+  - first:
+      213: 17932693645723912
+    second: astroid_125
+  - first:
+      213: 7073941017993376006
+    second: astroid_126
+  - first:
+      213: -8917982735566554366
+    second: astroid_127
+  - first:
+      213: 5327154303242427212
+    second: astroid_128
+  - first:
+      213: 2496700622780901620
+    second: astroid_129
+  - first:
+      213: 4108491315401581575
+    second: astroid_130
+  - first:
+      213: 4035642536452430928
+    second: astroid_131
+  - first:
+      213: -2565943774717239591
+    second: astroid_132
+  - first:
+      213: -7807032970438361853
+    second: astroid_133
+  - first:
+      213: -235966202374870866
+    second: astroid_134
+  - first:
+      213: 4110051568050402980
+    second: astroid_135
+  - first:
+      213: -5715926528311437294
+    second: astroid_136
+  - first:
+      213: 7869101837135236657
+    second: astroid_137
+  - first:
+      213: -5420232466514209486
+    second: astroid_138
+  - first:
+      213: 6406918300801141230
+    second: astroid_139
+  - first:
+      213: 4853300188880775100
+    second: astroid_140
+  - first:
+      213: -8629277557997045630
+    second: astroid_141
+  - first:
+      213: -2070150711955082585
+    second: astroid_142
+  - first:
+      213: -4934111891023501912
+    second: astroid_143
+  - first:
+      213: 6514976646098021960
+    second: astroid_144
+  - first:
+      213: -6706872604107415576
+    second: astroid_145
+  - first:
+      213: 8686986198052133402
+    second: astroid_146
+  - first:
+      213: -8823195733615552933
+    second: astroid_147
+  - first:
+      213: -1776422544640889555
+    second: astroid_148
+  - first:
+      213: -2790093154733112825
+    second: astroid_149
+  - first:
+      213: 5732933607728916475
+    second: astroid_150
+  - first:
+      213: 1425405137113733899
+    second: astroid_151
+  - first:
+      213: -6500111589485262853
+    second: astroid_152
+  - first:
+      213: -7989985670206656072
+    second: astroid_153
+  - first:
+      213: -3784644462665621891
+    second: astroid_154
+  - first:
+      213: -5628993643087358508
+    second: astroid_155
+  - first:
+      213: 4609546417299257163
+    second: astroid_156
+  - first:
+      213: -1491075629149860173
+    second: astroid_157
+  - first:
+      213: 8989435226378323921
+    second: astroid_158
+  - first:
+      213: 8899244691963017909
+    second: astroid_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: astroid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52664100049831f0800000000000000
+      internalID: -1064938584130821537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64df11eca5b187af0800000000000000
+      internalID: -398538490203996858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_2
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d2a5b5e6392b1d0800000000000000
+      internalID: -3336442271739794095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_3
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf8e556d0a73c6b0800000000000000
+      internalID: -5277240140394229836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c876eb16a2ced80800000000000000
+      internalID: -8220148620563346329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b8fd1f7a38324d0800000000000000
+      internalID: -3160537756143219840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d28f779281b480800000000000000
+      internalID: -8885177002634324341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_7
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c3ad619d2b5d60800000000000000
+      internalID: 7879942075647772688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd3e056ab05f0e0800000000000000
+      internalID: -2236868830969996507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_9
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47d87065ad006030800000000000000
+      internalID: 3485801115524061003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_10
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a40e12847e7170800000000000000
+      internalID: 8178102075549589795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_11
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de0cf92c71859d40800000000000000
+      internalID: 5590516882730651351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dfc1a554b3c6db0800000000000000
+      internalID: -4797394334005789349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc593090be929020800000000000000
+      internalID: 2347112836984560819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ffc7d2eee11dc0800000000000000
+      internalID: -3669889563279493844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_15
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48d665b8e7ff9cd0800000000000000
+      internalID: -2549046285220521906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fb250ae47f4f450800000000000000
+      internalID: 6121789710572633964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc19d53a2d04d700800000000000000
+      internalID: 564090328271363312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd32c712c33823860800000000000000
+      internalID: 7508207823063098333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_19
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e9d4fb2ac1e5e50800000000000000
+      internalID: 6799903972695842386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b0c8f4d49df3a0800000000000000
+      internalID: -6629979433992144818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_21
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a898438c4ecba2f0800000000000000
+      internalID: -960447267498059611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_22
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197a800f33c2cf040800000000000000
+      internalID: 4682666314140526481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_23
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8088d46e8eed9c540800000000000000
+      internalID: 5028795550813489160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a033190db2e92b0800000000000000
+      internalID: -5575971113848862091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_25
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becec143b7f413dd0800000000000000
+      internalID: -2508136126894773013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64aedb6cffc82110800000000000000
+      internalID: 1236466780761662571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_27
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad84d3e0acd705810800000000000000
+      internalID: 1752038561822886106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414dfb6fe3e8a1cd0800000000000000
+      internalID: -2586598634892045292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_29
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0436c9e604ff25a0800000000000000
+      internalID: -6543743423016979442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_30
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db3e749a822321b0800000000000000
+      internalID: -5682660326219301931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_31
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a1b864b75bb6340800000000000000
+      internalID: 4858176164118338165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12540222776e9d00800000000000000
+      internalID: 981335508707987996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_33
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd9218f6ce57690800000000000000
+      internalID: -7604912432092685420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad5a97dcea72b30800000000000000
+      internalID: 4262567769861905138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_35
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0c19afade128190800000000000000
+      internalID: -7961767265382055750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec0afac21d1c5ab0800000000000000
+      internalID: -5018103918245573401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e35731e53933b0800000000000000
+      internalID: -5532331425835785254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07fd7c4d1b481b50800000000000000
+      internalID: 6564079046101956367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_39
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c3226be515c880800000000000000
+      internalID: -8591436613431342836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8aa1826cf2f1c700800000000000000
+      internalID: 558994994568997516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_41
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffece3f9a70ab5fc0800000000000000
+      internalID: -3505031436459651329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_42
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaee7ced7def9b00800000000000000
+      internalID: 837649180808637092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_43
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184049c943f449a20800000000000000
+      internalID: 3068164333529990273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6421451176eca79a0800000000000000
+      internalID: -6234443792073354682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dc0fd8d3a5ddc10800000000000000
+      internalID: 2079917823335910797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_46
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8523591c0ceb6050800000000000000
+      internalID: 5794984882250917259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_47
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e594f1c00006adc0800000000000000
+      internalID: -3628212446546323999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3e05247c4329cf0800000000000000
+      internalID: -247076999136222229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527685f2c8e12890800000000000000
+      internalID: -7484445181672525221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_50
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b8308ff0c32ad0800000000000000
+      internalID: -2728124745655994450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_51
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acedb1e7174242890800000000000000
+      internalID: -7483816610917261622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dbaf29a295348c0800000000000000
+      internalID: -4016268403294945931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_53
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76ea60183a881e0800000000000000
+      internalID: -2195325043784914972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_54
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c147835386d28b360800000000000000
+      internalID: 7185543131062367260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_55
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dff9fe32da14be0800000000000000
+      internalID: -1494723231454593777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a7d1787b7161750800000000000000
+      internalID: 6275229207800674904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_57
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2040
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1804637d609dd62e0800000000000000
+      internalID: -2130808425272688511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_58
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2040
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65140e44cf0d15ed0800000000000000
+      internalID: -2426928942270103210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_59
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2040
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235e6137f5d477940800000000000000
+      internalID: 5293784959345419570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1960
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c50c33daa026c60800000000000000
+      internalID: 7809816442827725934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_61
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1960
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c4c5ceb30e3e5b0800000000000000
+      internalID: -5340178185158112148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_62
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1960
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b030cc44578081f0800000000000000
+      internalID: -1044686317415288650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_63
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1960
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a273b4d39c8f06b0800000000000000
+      internalID: -5327885267599396189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1880
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1244e314887ded780800000000000000
+      internalID: -8656244453549390815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1880
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768bd2a08bcdd3f40800000000000000
+      internalID: 5709962585578518631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_66
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1880
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6787e6ad74af16970800000000000000
+      internalID: 8746547137844508790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_67
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1880
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdb585fdee59bc60800000000000000
+      internalID: 7834397402907131386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbee230d8d7b91500800000000000000
+      internalID: 367526986441223871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67d6735fa6e65290800000000000000
+      internalID: -7901874855480993940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_70
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40543f3dc74271020800000000000000
+      internalID: 2312357052228519172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_71
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1800
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7879d2697151450800000000000000
+      internalID: 6058774807474309056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cac7ceb205aaf660800000000000000
+      internalID: 7420424767255595719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_73
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1720
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab557ac59c15f2b80800000000000000
+      internalID: -8417419253247420998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_74
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1720
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050f54c9648808da0800000000000000
+      internalID: -5944601671278137264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_75
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1720
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82de7e1c2ab97a50800000000000000
+      internalID: 6519446634248458890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f722e4c48738e0800000000000000
+      internalID: -1713755152048458877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_77
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1640
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6919221f2a516340800000000000000
+      internalID: 4855261031496751471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_78
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1640
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043008abc249269e0800000000000000
+      internalID: -1629577195326274752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_79
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1640
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b220290bf75f40800000000000000
+      internalID: 5717314268582557873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac76cafe67054b0800000000000000
+      internalID: -5453728376983926134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_81
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1560
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b30b1a19b4656020800000000000000
+      internalID: 2334382728031175606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_82
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1560
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed844ddee369c4250800000000000000
+      internalID: 5930280006362351838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_83
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1560
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf260aa2d73179c60800000000000000
+      internalID: 7824744305886520060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1480
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ef0dd92337d1a0800000000000000
+      internalID: -6784898058714881694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_85
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1480
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0e81556f8c852f0800000000000000
+      internalID: -983815558265249585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_86
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1480
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8d72a987b40efb0800000000000000
+      internalID: -4620610236327667514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_87
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1480
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916b12a71c4e56dd0800000000000000
+      internalID: -2493335299050850791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da18f2b1faaab77a0800000000000000
+      internalID: -6378316778188078675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_89
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1400
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a009b4d001239a0800000000000000
+      internalID: -6254919283175847313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_90
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1400
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f178c4b7936b20800000000000000
+      internalID: 3126509369038076081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_91
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1400
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f12c16a400831f0800000000000000
+      internalID: -1065100992405430486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8147a81cbd2ced930800000000000000
+      internalID: 4169984554092360728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_93
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1320
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bd6bbee84c86cc0800000000000000
+      internalID: -3717505374275314937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_94
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1320
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd650ada2b8b2cc0800000000000000
+      internalID: -3734738449811018302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_95
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1320
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d24fc72aa18f050800000000000000
+      internalID: 5834442602441878810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0b3675c05dfe60800000000000000
+      internalID: 7997637322302229824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_97
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1240
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb603ab67b1300d0800000000000000
+      internalID: -3457889892146582537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_98
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1240
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d889830b030990800000000000000
+      internalID: -7421075651156192824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_99
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1240
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ae083b00c2bca0800000000000000
+      internalID: -6002524198913793470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1aa8d8cfb0f2cd30800000000000000
+      internalID: 4450384088294533662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_101
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475fa8250ceeeb730800000000000000
+      internalID: 4016910427447031156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_102
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9bcf42c2aad5a30800000000000000
+      internalID: 4205704733609736701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_103
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1160
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09c9c2869e44120800000000000000
+      internalID: 2397297535302275249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7b1bdada0f45640800000000000000
+      internalID: 5067940109432764376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee714388d679fda10800000000000000
+      internalID: 1936432861484947438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_106
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ec02650ed132990800000000000000
+      internalID: -7412047712366834148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_107
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1080
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64fb4091085f0ed0800000000000000
+      internalID: -2445639308899781521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9965a9801e7d69b60800000000000000
+      internalID: 7752621170076833433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_109
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a717eaa7bed7a60800000000000000
+      internalID: 7673548252254403161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_110
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68939a830de818230800000000000000
+      internalID: 3639346998847027590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_111
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1000
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f47acc26acbe490800000000000000
+      internalID: -7715851010880090244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a464e6ca131c2c0800000000000000
+      internalID: -4413191543192139180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_113
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7fd51ab88fb5b0800000000000000
+      internalID: -5350407499480597969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_114
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3e8a6d9a86d220800000000000000
+      internalID: 2510346251007835428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_115
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 920
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea900af18b67f80800000000000000
+      internalID: -8109091633065513350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a5b295bb880c720800000000000000
+      internalID: 2864439701243910664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_117
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d3a82b79f0a1450800000000000000
+      internalID: 6060173392790306196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_118
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464ff350d362a6a30800000000000000
+      internalID: 4209218845254087780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_119
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 840
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49851f072f9236e0800000000000000
+      internalID: -1859248706044982962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebb85941a90781c0800000000000000
+      internalID: -4501618714208584736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_121
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486f979850966e5f0800000000000000
+      internalID: -727778817271531900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_122
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5876138acea851470800000000000000
+      internalID: 8364744631949289349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_123
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 760
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe54c986185cab80800000000000000
+      internalID: -8382227952619462915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33021b516e231cf90800000000000000
+      internalID: -6935205987386056653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_125
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8098e9a90b5bf3000800000000000000
+      internalID: 17932693645723912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_126
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017f8360efab2260800000000000000
+      internalID: 7073941017993376006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_127
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 680
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3d7593f5fc3480800000000000000
+      internalID: -8917982735566554366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b55744d9adde940800000000000000
+      internalID: 5327154303242427212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_129
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f82a530dff06a220800000000000000
+      internalID: 2496700622780901620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_130
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e949651b440930800000000000000
+      internalID: 4108491315401581575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_131
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 600
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c14b1518b710830800000000000000
+      internalID: 4035642536452430928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9a5a5bbfe36cd0800000000000000
+      internalID: -2565943774717239591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_133
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d324770e8d7a390800000000000000
+      internalID: -7807032970438361853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_134
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8a2783dfda9bcf0800000000000000
+      internalID: -235966202374870866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_135
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 520
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a67e2a0026d90930800000000000000
+      internalID: 4110051568050402980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218d3c55b13fca0b0800000000000000
+      internalID: -5715926528311437294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_137
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ec1d7bd6aa43d60800000000000000
+      internalID: 7869101837135236657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_138
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23591611a4777c4b0800000000000000
+      internalID: -5420232466514209486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_139
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 440
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee98330df32f9e850800000000000000
+      internalID: 6406918300801141230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72392dec26a5340800000000000000
+      internalID: 4853300188880775100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_141
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288f557e7c5ae3880800000000000000
+      internalID: -8629277557997045630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_142
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2356645e85543e0800000000000000
+      internalID: -2070150711955082585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_143
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 360
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5638d8063868bb0800000000000000
+      internalID: -4934111891023501912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e63a6edb8d96a50800000000000000
+      internalID: 6514976646098021960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efd06ea6e66ce2a0800000000000000
+      internalID: -6706872604107415576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_146
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a5e97ebef5e8870800000000000000
+      internalID: 8686986198052133402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_147
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 280
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b565a124a36bd8580800000000000000
+      internalID: -8823195733615552933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d2fa78b11e857e0800000000000000
+      internalID: -1776422544640889555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_149
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70242edee099749d0800000000000000
+      internalID: -2790093154733112825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_150
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7a499edb87f8f40800000000000000
+      internalID: 5732933607728916475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_151
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 200
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5eaa8b6e08c310800000000000000
+      internalID: 1425405137113733899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c45cc2f6fac5a0800000000000000
+      internalID: -6500111589485262853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_153
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1fede9d5edd1190800000000000000
+      internalID: -7989985670206656072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_154
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e9aa1c9ed3a7bc0800000000000000
+      internalID: -3784644462665621891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_155
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 120
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d598d4fa1cc1e1b0800000000000000
+      internalID: -5628993643087358508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47fbca4b0668ff30800000000000000
+      internalID: 4609546417299257163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_157
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 40
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bec7478d92ae4be0800000000000000
+      internalID: -1491075629149860173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_158
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 40
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c9a7d5b3e0cc70800000000000000
+      internalID: 8989435226378323921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: astroid_159
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 40
+        width: 1200
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba7cb9a5e7708b70800000000000000
+      internalID: 8899244691963017909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

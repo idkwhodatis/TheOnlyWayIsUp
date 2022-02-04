@@ -1,0 +1,8 @@
+Shuttle# I am detecting short-distance portals, calculating portal routes. 
+Shuttle# ...
+Shuttle# The portal routes are good, jump into it the portals and get back to the shuttle sooner.
+Private Horton# Copy that.
+Shuttle# Hey rookie, don't blame yourself alright. People die during war time, and someone's gonna pay for this, but it's not you, ok?
+Private Horton# Copy that.
+Private Horton# ..., thanks.
+ # 
